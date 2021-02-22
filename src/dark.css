@@ -1,0 +1,7 @@
+@media (prefers-color-scheme: dark) {
+    :root {
+      --body-background-color: #100f10;
+      --body-color: #6c757d;
+      --link-color: #dee2e6;
+      --link-color-hover: #fff;
+    }}
